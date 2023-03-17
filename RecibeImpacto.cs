@@ -13,4 +13,5 @@ public class RecibeImpacto : MonoBehaviour
             player.transform.position = new Vector3(181.2f, 71.4f, 196.6f);
         }
     }
+
 }
